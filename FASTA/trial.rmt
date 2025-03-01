@@ -1,0 +1,12 @@
+#meta-information
+fasta=dm6_reference.fasta
+md5=5649a57b614d8aa7a848dafbb6caad33
+
+#standard
+std
+it None
+sn 0.1 in 0.05 de 0.05 inmin 1 inmax 10 demin 1 demax 10
+
+#range definitions
+chr 1
+410-416 sn 0.01 in 0.0001 de 0.0001 inmin 1 inmax 3 demin 1 demax 3
